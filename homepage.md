@@ -8,6 +8,10 @@
 
 **❤️ Developing forever!**
 
+|Github Stats|Github Streak|Languages|
+|-----|-----|-----|
+|![Github Status](https://github-readme-stats.vercel.app/api?username=hemingtsai&theme=synthwave&show_icons=true&hide_border=false&count_private=true)|![Github Status](https://github-readme-streak-stats.herokuapp.com/?user=hemingtsai&theme=synthwave&hide_border=false)|![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hemingtsai&theme=synthwave&show_icons=true&hide_border=false&layout=compact)
+
 ## Contributions | 贡献墙
 
 ![Snake Animation](https://raw.githubusercontent.com/hemingtsai/hemingtsai/output/snake.svg)
