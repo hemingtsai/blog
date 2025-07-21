@@ -1,20 +1,46 @@
-[
+{
+  "website_info": {
+    "title": "Hemingtsai's Blog",
+    "description": "时间存在的证明是风蚀的痕迹"
+  },
+  "special_pages": [
     {
-        "title": "Hello World",
-        "time": {
-            "year": 2025,
-            "month": 1,
-            "day": 16
-        },
-        "file": "hello_world.md"
+      "title": "关于我",
+      "file": "about_me.md",
+      "time": {
+        "year": 2025,
+        "month": 1,
+        "day": 1
+      }
     },
     {
-        "title": "博客系统正式竣工",
-        "time": {
-            "year": 2025,
-            "month": 3,
-            "day": 15
-        },
-        "file":"the_blog_system_was_officially_completed.md"
+      "title": "变更日志",
+      "file": "changelog.md",
+      "time": { 
+        "year": 2025,
+        "month": 3,
+        "day": 15
+      }
     }
-]
+  ],
+  "posts": [
+    {
+      "title": "Hello World",
+      "time": {
+        "year": 2025,
+        "month": 1,
+        "day": 16
+      },
+      "file": "hello_world.md"
+    },
+    {
+      "title": "博客系统正式竣工",
+      "time": {
+        "year": 2025,
+        "month": 3,
+        "day": 15
+      },
+      "file": "the_blog_system_was_officially_completed.md"
+    }
+  ]
+}
