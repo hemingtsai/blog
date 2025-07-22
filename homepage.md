@@ -1,55 +1,20 @@
 # 👋Hi, there
 
-## Brief | 简介
+## 导语
 
-我是 ***Hemingtsai***， 一个普普通通的中学生。
+欢迎来到我的博客！
 
-我热爱开发，热爱计算机技术。
+可以先了解一下[我](https://hmtsai.cn/special_pages/0)，或者查看本站的[变更日志](https://hmtsai.cn/special_pages/1)。
 
-**❤️ Developing forever!**
+或者，你可以先读读[我的文章](https://hmtsai.cn/blog)。
 
-|Github Stats|Github Streak|Languages|
-|-----|-----|-----|
-|![Github Status](https://github-readme-stats.vercel.app/api?username=hemingtsai&theme=synthwave&show_icons=true&hide_border=false&count_private=true)|![Github Status](https://github-readme-streak-stats.herokuapp.com/?user=hemingtsai&theme=synthwave&hide_border=false)|![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hemingtsai&theme=synthwave&show_icons=true&hide_border=false&layout=compact)
+## 开放服务
 
-## Contributions | 贡献墙
+- [网站状态](https://status.hmtsai.cn/status/open-service)：查看本站所有服务的运行状态。
 
-![Snake Animation](https://raw.githubusercontent.com/hemingtsai/hemingtsai/output/snake.svg)
+## 开源项目
 
-## Technology stack | 技术栈
+- [Lunapages](https://github.com/hemingtsai/lunapages)：本站的前端代码。
+- [Lunalog](https://github.com/hemingtsai/lunalog)：本站的后端代码。
+- [Zrynvim](https://github.com/hemingtsai/zrynvim)：我的 Neovim 配置文件。
 
-- Programming language | 编程语言
-  - HTML
-  - CSS
-  - C / C++
-  - TypeScript / JavaScript
-  - Python
-  - Lua
-- Frontend Framework | 前端框架
-  - Vue
-  - Tailwind CSS
-    - Daisy UI
-- Backend Framework | 后端框架
-  - FastAPI
-- Database | 数据库
-  - MySQL
-  - SQLite
-- Tools | 工具
-  - Git
-    - Github
-    - Gitea
-  - Editors
-    - VSCode
-    - Vim / Neovim
-    - Emacs
-  - Markdown
-
-## Opensource Projects | 开源项目
-
-- Project Luna
-  - [Lunalog](https://github.com/hemingtsai/lunalog)
-  - [Personal Homepage](https://github.com/hemingtsai/personal_homepage)
-- [Study Area CN](https://git.hmtsai.cn/study-area-cn)
-- Editors
-  - [Zrynvim](https://github.com/hemingtsai/zrynvim)
-  - [Zry-emacs](https://github.com/hemingtsai/zry-emacs)
